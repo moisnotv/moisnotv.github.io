@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://moisnotv.000webhostapp.com/index.html</loc>
+    <loc>https://moisnotv.github.io/index.html</loc>
     <lastmod>2019-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://moisnotv.000webhostapp.com/images/drawer_header.png</image:loc>
+      <image:loc>https://moisnotv.github.io/images/drawer_header.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://moisnotv.000webhostapp.com/tigo1.html</loc>
+    <loc>https://moisnotv.github.io/tigo1.html</loc>
     <lastmod>2019-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moisnotv.000webhostapp.com/tigo2.html</loc>
+    <loc>https://moisnotv.github.io/tigo2.html</loc>
     <lastmod>2019-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moisnotv.000webhostapp.com/direc1.html</loc>
+    <loc>https://moisnotv.github.io/direc1.html</loc>
     <lastmod>2019-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
