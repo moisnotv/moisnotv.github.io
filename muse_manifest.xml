@@ -1,0 +1,26 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://moisnotv.000webhostapp.com" resolutions="1x" timestamp="1572445186750">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="66095710" ref="index"/>
+    <file name="tigo2.css" crc="4217814621" ref="tigo2"/>
+    <file name="tigo1.css" crc="4025400958" ref="tigo1"/>
+    <file name="direc1.css" crc="4193191577" ref="direc1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tigo1:tigo2:direc1"/>
+    <file name="museutils.js" crc="3803043152" ref="index:tigo1:tigo2:direc1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tigo1:tigo2:direc1"/>
+    <file name="museconfig.js" crc="380897831" ref="index:tigo1:tigo2:direc1"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:tigo1:tigo2:direc1"/>
+    <file name="require.js" crc="4157109226" ref="index:tigo1:tigo2:direc1"/>
+  </folder>
+  <folder name="images">
+    <file name="drawer_header.png" crc="4005108258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="94427593" seo="true" mt="1572444311908" redirect="true"/>
+  <file name="tigo1.html" crc="414384526" seo="true" mt="1572445183321" redirect="true"/>
+  <file name="tigo2.html" crc="3803344306" seo="true" mt="1572444874477" redirect="true"/>
+  <file name="direc1.html" crc="427136917" seo="true" mt="1572444622018" redirect="false"/>
+</manifest>
