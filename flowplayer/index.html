@@ -6,16 +6,33 @@
    <link rel="stylesheet" href="skin/skin.css">
 
    <!-- site specific styling -->
-   <style>
-   body { font: 12px "Myriad Pro", "Lucida Grande", sans-serif; text-align: center; padding-top: 5%; }
-   .flowplayer { width: 80%; }
-   </style>
+    <style>
+/*            body, html {
+                 no scrollbars 
+                overflow: hidden;
+                 pin player to top left corner of page/iframe 
+                margin: 0;
+                padding: 0;
+            }*/
+            .flowplayer {
+                position: absolute;
+                bottom: 0;
+                top: 0;
+                left: 0;
+                right: 0;
+                height: 520px;
+            }
+            .flowplayer.is-ready {
+                background-color: #333;
+            }
+        </style>
 
    <!-- for video tag based installs flowplayer depends on jQuery 1.7.2+ -->
    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
 
    <!-- include flowplayer -->
    <script src="flowplayer.min.js"></script>
+   <script src="//releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
 
 </head>
 
@@ -23,10 +40,10 @@
 
    <!-- the player -->
    <div class="flowplayer" data-swf="flowplayer.swf" data-ratio="0.4167">
-      <video controls width="640" height="360">
+      <video>
        <source type="application/x-mpegurl"
                src="http://epro.webhop.biz:25461/live/colom92hdshaslk/gMrpA2ab/7482.m3u8">
-      </video>
+   </video>
    </div>
 
 </body>
